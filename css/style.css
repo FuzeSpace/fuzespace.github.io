@@ -1,0 +1,20 @@
+/* line 1, ../sass/style.sass */
+.header {
+  margin-bottom: 30px;
+}
+
+/* line 4, ../sass/style.sass */
+.header .header__h1 {
+  font-weight: 300;
+}
+
+/* line 10, ../sass/style.sass */
+.portfolio .portfolio__card {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+/* line 14, ../sass/style.sass */
+.portfolio .portfolio__card .portfolio__card_card-text {
+  font-size: 10px;
+}
